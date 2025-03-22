@@ -488,8 +488,8 @@ p {
 }
 
 .inclusion-container .accessibility-icon {
-    width: 140px;
-    height: 140px;
+    width: 50px;
+    height: 50px;
     background-color: rgba(255, 255, 255, 0.7);
     border-radius: 50%;
     display: flex;
@@ -505,7 +505,7 @@ p {
 }
 
 .inclusion-container .accessibility-icon i {
-    font-size: 4rem;
+    font-size: 1.5rem;
     color: #2c5c2a;
 }
 
@@ -537,20 +537,16 @@ p {
     flex-direction: column;
     align-items: center;
     padding: 1rem;
-    border-radius: 15px;
-    background-color: white;
-    box-shadow: none;
     min-width: 200px;
     transition: transform 0.3s ease;
 }
 
 .contact-item:hover {
     transform: translateY(-5px);
-    box-shadow: none;
 }
 
 .contact-item i {
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: #2c5c2a;
     margin-bottom: 1rem;
 }
@@ -704,20 +700,20 @@ footer {
     /* Keep accessibility icons in a single row for medium screens */
     .inclusion-container .accessibility-icons {
         flex-wrap: nowrap;
-        gap: 0.8rem;
+        gap: 1rem;
         justify-content: center;
         padding: 1rem 0.5rem;
         max-width: 100%;
     }
     
     .inclusion-container .accessibility-icon {
-        width: 65px;
-        height: 65px;
-        min-width: 65px; /* Prevent shrinking */
+        width: 50px;
+        height: 50px;
+        min-width: 50px; /* Prevent shrinking */
     }
     
     .inclusion-container .accessibility-icon i {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
     
     .inclusion-container .circular-image {
@@ -737,24 +733,21 @@ footer {
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: center;
-        gap: 1rem;
+        gap: 1.5rem;
     }
     
     .contact-item {
-        background-color: rgba(255, 255, 255, 0.7);
-        border-radius: 10px;
-        padding: 1rem;
-        width: calc(50% - 0.5rem);
+        padding: 0.5rem;
+        width: auto;
         display: flex;
         flex-direction: column;
         align-items: center;
         text-align: center;
-        height: 120px; /* Fixed height for consistent sizing */
-        justify-content: center;
+        min-width: 0;
     }
     
     .contact-item i {
-        font-size: 1.8rem;
+        font-size: 1.6rem;
         margin-bottom: 0.5rem;
         color: #2c5c2a;
     }
@@ -822,14 +815,14 @@ footer {
     }
     
     .inclusion-container .accessibility-icon {
-        width: 60px;
-        height: 60px;
+        width: 50px;
+        height: 50px;
         min-width: auto;
         margin: 0 auto;
     }
     
     .inclusion-container .accessibility-icon i {
-        font-size: 1.6rem;
+        font-size: 1.5rem;
     }
     
     /* Make contact items equal size */
@@ -860,8 +853,8 @@ footer {
     }
     
     .inclusion-container .accessibility-icon {
-        width: 55px;
-        height: 55px;
+        width: 50px;
+        height: 50px;
     }
     
     .inclusion-container .accessibility-icon i {
@@ -894,6 +887,6 @@ footer {
     }
     
     .inclusion-container .accessibility-icon i {
-        font-size: 1.4rem;
+        font-size: 1.5rem;
     }
 }
