@@ -21,7 +21,11 @@ This is a digital brochure website for the Kočo Racin Resource Center in Bitola
 
 ## Deployment
 
-The website is deployed using GitHub Pages and can be accessed at [https://assisstant.github.io/kocho-racin-broshura-website](https://assisstant.github.io/kocho-racin-broshura-website).
+The website is deployed using GitHub Pages and can be accessed at [https://assisstant.github.io/KocoRacinFlyer](https://assisstant.github.io/KocoRacinFlyer).
+
+## Last Updated
+
+March 22, 2025 - Updated with single-column layout and fixed image paths.
 
 ## License
 
