@@ -21,8 +21,8 @@ This is a digital brochure website for the Kočo Racin Resource Center in Bitola
 
 ## Deployment
 
-The website is deployed using GitHub Pages and can be accessed at [https://your-github-username.github.io/kocho-racin-website](https://your-github-username.github.io/kocho-racin-website) (replace with your actual GitHub username).
+The website is deployed using GitHub Pages and can be accessed at [https://assisstant.github.io/kocho-racin-broshura-website](https://assisstant.github.io/kocho-racin-broshura-website).
 
 ## License
 
- 2025 Основно училиште со Ресурсен Центар "Кочо Рацин" - Битола. All rights reserved.
+2025 Основно училиште со Ресурсен Центар "Кочо Рацин" - Битола. All rights reserved.
